@@ -90,7 +90,7 @@ public class MainActivity extends BaseActivity {
 
         intent.putExtra("packageName",packageName);
         intent.putExtra("receiverName", "CheckAndDownloadInfoReceiver");
-        intent.putExtra("receiverClass","com.example.targetapk.receiver.CheckAndDownloadInfoReceiver");
+        //intent.putExtra("receiverClass","com.example.targetapk.receiver.CheckAndDownloadInfoReceiver");
         intent.putExtra("mid","4325");
         intent.putExtra("deviceType","phone");
         intent.putExtra("device","MI3C");
