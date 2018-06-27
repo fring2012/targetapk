@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="当前版本0.0.8"
+        android:text="当前版本0.0.9"
         android:textIsSelectable="true"/>
     <Button
         android:id="@+id/check"
